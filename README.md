@@ -1,17 +1,13 @@
 # Portfolio
 
-Hi, I'm Adaeze Benedicta Odenigbo. This repository contains selected projects for my master’s applications.
+This repository contains selected projects for my Master’s applications.
 
 ## Projects
-- [Project 1 — Title](./projects/project-1) — one-line description
-- [Project 2 — Title](./projects/project-2) — one-line description
-
-## Interests
-Briefly list your academic interests.
-
-## Skills
-- Example: Python, R, SQL
-- Example: Data Analysis, Machine Learning, Research
+- **Personal Finance Tracker (Java)** — console app with CSV save/load + summaries  
+- **Student Management & Attendance Website (Thesis)** — web system for attendance and student records  
+- **(Next)** Quiz App (JavaFX)  
+- **(Next)** File Organizer Tool (Java)  
+- **(Next)** Mini Game (JavaFX)
 
 ## Contact
-- Email: adaezeodenigbo023@gmail.com
+- LinkedIn: (link)
